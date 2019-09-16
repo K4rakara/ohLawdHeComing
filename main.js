@@ -14,8 +14,8 @@ function ohLawd_updateCoords() {
 }
 
 function ohLawd_update() {
-    ohLawd.width = ohLawd.width + 1;
-    ohLawd.height = ohLawd.height + 1;
+    ohLawd.width = ohLawd.width + 0.5;
+    ohLawd.height = ohLawd.height + 0.5;
     ohLawd_updateCoords();
     ohLawd.win.resizeTo(ohLawd.width, ohLawd.height);
     ohLawd.win.moveTo(ohLawd.x, ohLawd.y);
