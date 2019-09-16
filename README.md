@@ -1,2 +1,11 @@
-# ohLawdHeComing
-The stupidest fucking Bookmarklet you'll probably ever find. (WIP)
+# Oh Lawd He Coming
+
+A stupid goddamn Bookmarklet.
+To add to your browser, drag [this link][1] into your bookmarks bar.
+Alternitivley, you can copy the source below into a new bookmark.
+
+```JavaScript
+javascript:var createdWindow = window.open('https://k4rakara.github.io/ohLawdHeComing/index.html','','width = 100, height = 100');
+```
+
+[1]: javascript:var createdWindow = window.open('https://k4rakara.github.io/ohLawdHeComing/index.html','','width = 100, height = 100');
