@@ -26,5 +26,4 @@ function ohLawd_update() {
 }
 ohLawd.ox = Math.random() * screen.width;
 ohLawd.oy = Math.random() * screen.height;
-ohLawd_updateCoords();
-setInterval(ohLawd_update,10);
+setInterval(ohLawd_update,100);
