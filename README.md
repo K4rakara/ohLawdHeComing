@@ -8,4 +8,4 @@ Alternitivley, you can copy the source below into a new bookmark.
 javascript:var createdWindow = window.open('https://k4rakara.github.io/ohLawdHeComing/index.html','','width = 100, height = 100');
 ```
 
-[this link]: javascript:var createdWindow = window.open('https://k4rakara.github.io/ohLawdHeComing/index.html','','width = 100, height = 100');
+[this link]: <javascript:var createdWindow = window.open('https://k4rakara.github.io/ohLawdHeComing/index.html','','width = 100, height = 100');>
