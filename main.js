@@ -4,8 +4,8 @@ var ohLawd = {
   oy : 0,
   x : 0,
   y : 0,
-  width : 0,
-  height : 0
+  width : 100,
+  height : 100
 };
 function ohLawd_updateCoords() {
   ohLawd.x = ohLawd.ox - (ohLawd.width/2);
@@ -26,4 +26,6 @@ function ohLawd_update() {
 }
 ohLawd.ox = Math.random() * screen.width;
 ohLawd.oy = Math.random() * screen.height;
+ohLawd.win.resizeTo(ohLawd.width,ohLawd.height);
+ohLawd.win.moveTo(ohLawd.x,ohLawd.y);
 setInterval(ohLawd_update,100);
