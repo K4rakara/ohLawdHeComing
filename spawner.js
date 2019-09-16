@@ -1,2 +1,1 @@
-var createdWindow = window.open('','name?','width = 100, height = 100');
-createdWindow.document.write('<!DOCTYPE html><html><head><title>oh lawd</title><style>* {background-image: url("k4rakara.github.io/ohLawdHeComing/god.jpg");background-attachment: fixed;background-repeat: no-repeat;background-size: contain;background-position: center;}</style></head><body><audio autoplay loop><source src = "k4rakara.github.io/ohLawdHeComing/megalovania.ogg"></audio><script src = "k4rakara.github.io/ohLawdHeComing/main.js"></script></body></html>');
+var createdWindow = window.open('k4rakara.github.io/ohLawdHeComing','','width = 100, height = 100');
