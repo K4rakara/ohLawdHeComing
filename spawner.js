@@ -1,0 +1,2 @@
+var createdWindow = window.open('','','width = 100, height = 100');
+createdWindow.document.write('<html><head><title>oh lawd</title><style>* {background-image: url("https://steemitimages.com/DQmfEyWfwtjbDmhuDoCvhuwMyDCY7TidngxPTGHAzSBbERa/miniwheat1.jpg");background-attachment: fixed;background-repeat: no-repeat;background-size: contain;background-position: center;}</style></head><audio src = "https://k4rakara.github.io/ohLawdHeComing/megalovania.ogg" autoplay loop></audio><script src = "https://k4rakara.github.io/ohLawdHeComing/main.js"></script></html>');
