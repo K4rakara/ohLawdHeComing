@@ -1,6 +1,6 @@
 # Oh Lawd He Coming
 
-A stupid goddamn Bookmarklet.
+An obnoxious injoke bookmarklet.
 
 #### How to install?
 To add to your browser, you can copy the source below into a new bookmark.
